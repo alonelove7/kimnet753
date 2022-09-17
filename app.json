@@ -27,7 +27,7 @@
     },
      "StringSession": {
       "description": "Telegram channel username for support",
-      "required": "true",
+      "required": "false",
       "value": ""
     }, 
     "token": {
