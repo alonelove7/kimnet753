@@ -24,11 +24,6 @@
       "description": "Telegram channel username for support",
       "required": "true",
       "value": ""
-    },
-     "StringSession": {
-      "description": "Telegram channel username for support",
-      "required": "false",
-      "value": ""
     }, 
     "token": {
       "description": "Telegram robot token for launch .",
