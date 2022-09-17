@@ -1,1 +1,1 @@
-web: gunicorn main:main --workers 4 --threads 4 --bind 0.0.0.0:$PORT --timeout 86400 --worker-class aiohttp.GunicornWebWorker & python -m bot
+web: gunicorn main:main --workers 6 --threads 6 --bind 0.0.0.0:443 --timeout 864000 --worker-class aiohttp.GunicornWebWorker & python -m bot
