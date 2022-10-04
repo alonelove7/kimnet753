@@ -135,7 +135,7 @@ async def donate_handler(event):
 async def support_handler(event):
             if event.raw_text == "پشتیبانی💠":
                         await client.send_message(event.chat_id,f"📞برای گزارش مشکل، انتقاد، پیشنهاد و... با آیدی زیر در ارتباط باشید.\n\n🆔 @{Config.CHANNEL_USERNAME}",buttons=[
-                                    [Button.url('💡تماس با ما💡', 'https://t.me/KN7_A')]
+                                    [Button.url('💡تماس با ما💡', 'https://t.me/King_network7')]
                         ])
                         
                         
