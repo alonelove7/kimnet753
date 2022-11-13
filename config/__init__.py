@@ -6,4 +6,4 @@ class Config:
     CHANNEL = int( os.getenv("channel_files_chat_id","-1001526486348") )
     CHANNEL_USERNAME = os.getenv("channel_username","King_network7")
     TOKEN = os.getenv("token","2045343811:AAFK6hL7f1YmjXNcQJSFxZmOmnVYPgwuHaI")
-    DOMAIN  = os.getenv("domain","https://d4.kimo.vip")
+    DOMAIN  = os.getenv("domain","https://cdn.irani.host")
